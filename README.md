@@ -2,6 +2,7 @@
 
 #Tarea 2 de ayuda a un peludo
 Integrante:
-Felipe Estay
+Felipe Estay,
 Jose Palma
+,
 Rodrigo Fuentealva
