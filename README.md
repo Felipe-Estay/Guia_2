@@ -1,8 +1,8 @@
 # Guia_2
 
 #Tarea 2 de ayuda a un peludo
-Integrante:
+Integrantes:
 Felipe Estay,
 Jose Palma
 ,
-Rodrigo Fuentealva
+Rodrigo Fuentealba
