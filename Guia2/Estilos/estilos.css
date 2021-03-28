@@ -1,0 +1,40 @@
+.cuadro1{
+   background-color:lightskyblue;
+  
+   height: 25% ;
+   padding: 3%;
+  
+}
+.cuadro2 {
+
+    background-color: gold;
+    
+    height: 25%;
+    padding: 3%;
+ 
+}
+.cuadro3 {
+
+    background-color:orange;
+   
+    height: 25% ;
+    padding: 3%;
+}
+.cuadro4 {
+
+    background-color:orangered;
+   
+    height: 25% ;
+    padding: 3%;
+}
+.menu {
+
+    background-color:gray;  
+}
+.inicio{
+    text-align: center;
+}
+*{
+    font-family: sans-serif;
+}
+
