@@ -1,40 +1,63 @@
-.cuadro1{
-   background-color:lightskyblue;
-  
-   height: 25% ;
-   padding: 3%;
-  
-}
-.cuadro2 {
-
-    background-color: gold;
-    
-    height: 25%;
-    padding: 3%;
- 
-}
-.cuadro3 {
-
-    background-color:orange;
-   
-    height: 25% ;
-    padding: 3%;
-}
-.cuadro4 {
-
-    background-color:orangered;
-   
-    height: 25% ;
-    padding: 3%;
-}
-.menu {
-
-    background-color:gray;  
-}
-.inicio{
-    text-align: center;
-}
 *{
     font-family: sans-serif;
+    margin: 0;
+    padding: 1px;
+    color: white;
+ }
+.col-10{
+    width: 80%;
+}
+.cuadro1{
+    background-color:rgb(95, 221, 253);
+    height: 25% ;
+    padding: 3%;
+ }
+ .cuadro1 p{
+     margin: 1px;
+ }
+ 
+ .cuadro2 {
+    background-color: gold;
+    height: 25%;
+    padding: 3%; 
+ }
+ .cuadro2 p{
+    margin: 1px;
+}
+ 
+ .cuadro3 {
+    background-color:orange;
+    height: 25% ;
+    padding: 3%;
+ }
+ .cuadro3 p{
+    margin: 1px;
+}
+ 
+ .cuadro4 {
+    background-color:orangered;
+    height: 25% ;
+    padding: 3%;
+ }
+ .cuadro4 p{
+    margin: 1px;
+}
+ 
+ .menu {
+    background-color:rgb(54, 54, 54);  
+ }
+ 
+ .inicio{
+    margin-left: 15px;
+    margin-top: 15px;
+ 
+ }
+.col-2{
+    width: 20%;
+}
+ 
+.inicio td:hover{
+    filter: brightness(0.5);
+    transition: 0.5s;
 }
 
